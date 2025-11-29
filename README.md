@@ -481,7 +481,105 @@ SEO Optimized      | ✅   | ✅     | ✅         | ✅       | ✅
 ✅ **Collect Reviews** - Social proof = more sales  
 
 ---
+## 🎯 Template Details
 
+### **1️⃣ SaaS Landing Page**
+Perfect for software, apps, and tech startups
+
+**Sections Included:**
+- Navigation bar (sticky)
+- Hero section with CTA
+- Features showcase (4+ features)
+- How it works (step-by-step)
+- Pricing plans (3 tiers)
+- Testimonials (client reviews)
+- FAQ section
+- Newsletter signup
+- Final CTA
+- Footer with links
+
+**Demo Content:** Fake AI tool for demonstrations
+
+---
+
+### **2️⃣ Agency Website**
+Perfect for design, marketing, and creative agencies
+
+**Sections Included:**
+- Navigation with portfolio links
+- Hero with agency tagline
+- Services showcase
+- Portfolio/Work gallery
+- Team members section
+- Client testimonials
+- Process/Methodology
+- Latest blog posts
+- Contact form
+- Footer
+
+**Demo Content:** Creative agency services
+
+---
+
+### **3️⃣ Freelancer Portfolio**
+Perfect for freelancers, consultants, and independent professionals
+
+**Sections Included:**
+- Professional header
+- About me section
+- Skills showcase
+- Portfolio projects
+- Testimonials from clients
+- Pricing/Services table
+- Contact form
+- Social links
+- Call for freelance work
+- Footer
+
+**Demo Content:** Web designer & developer portfolio
+
+---
+
+### **4️⃣ Coaching Platform**
+Perfect for online courses, mentoring, and training
+
+**Sections Included:**
+- Course showcase
+- Course cards with descriptions
+- Instructor bio
+- Course curriculum preview
+- Testimonials from students
+- Pricing plans
+- Enrollment CTA
+- FAQ section
+- Free resources
+- Contact/enrollment form
+- Footer
+
+**Demo Content:** Online marketing course
+
+---
+
+### **5️⃣ E-Commerce Shop**
+Perfect for products, online stores, and retail
+
+**Sections Included:**
+- Product showcase
+- Product category filter
+- Product cards with ratings
+- Shopping cart (demo)
+- Product details modal
+- Customer reviews
+- Special offers/promotions
+- Trending products
+- Newsletter signup
+- Contact info
+- Footer
+
+**Demo Content:** Digital products & templates
+
+---
+---
 ## 🤝 Contributing
 
 Found bugs? Have suggestions? 
