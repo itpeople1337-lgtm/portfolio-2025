@@ -672,11 +672,11 @@ git push origin feature/your-feature
 **Author:** Reval Bernardtando ([DonsCry](https://github.com/DonsCry))
 
 **For Freelance Work:**
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [revalsaputra350@gmail.com](revalsaputra350@gmail.com)
 - 🌐 Portfolio: [your-portfolio.com](#)
 - 🐦 Twitter: [@yourusername](https://twitter.com)
-- 📱 Instagram: [@yourusername](https://instagram.com)
-- 💼 LinkedIn: [Your Name](https://linkedin.com)
+- 📱 Instagram: [@nardznightt](https://www.instagram.com/nardznightt/)
+- 💼 LinkedIn: [revaldi saputra](https://linkedin.com)
 
 ---
 
