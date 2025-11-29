@@ -108,7 +108,79 @@ portfolio-landing-templates/
 ├── LICENSE
 └── DEMO.html
 ```
+## 📁 Complete Project Structure
 
+```
+portfolio-landing-templates/
+│
+├── 📂 01-saas-landing/
+│   ├── index.html                  # SaaS landing page
+│   ├── css/
+│   │   ├── style.css               # Main styling
+│   │   └── dark-mode.css           # Dark mode styles
+│   ├── js/
+│   │   ├── main.js                 # Main functionality
+│   │   ├── dark-mode.js            # Theme toggle
+│   │   └── animations.js           # Smooth animations
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   └── videos/
+│   └── README.md                   # Template-specific docs
+│
+├── 📂 02-agency-website/
+│   ├── index.html
+│   ├── css/style.css
+│   ├── js/main.js
+│   ├── assets/
+│   └── README.md
+│
+├── 📂 03-freelancer-portfolio/
+│   ├── index.html
+│   ├── css/style.css
+│   ├── js/main.js
+│   ├── assets/
+│   └── README.md
+│
+├── 📂 04-coaching-platform/
+│   ├── index.html
+│   ├── css/style.css
+│   ├── js/main. js
+│   ├── assets/
+│   └── README. md
+│
+├── 📂 05-ecommerce-shop/
+│   ├── index.html
+│   ├── css/style. css
+│   ├── js/main.js
+│   ├── assets/
+│   └── README.md
+│
+├── 📂 components/                  # Reusable sections
+│   ├── navbar.html
+│   ├── hero-section.html
+│   ├── features.html
+│   ├── pricing-table.html
+│   ├── testimonials.html
+│   ├── contact-form.html
+│   ├── cta-section.html
+│   ├── footer.html
+│   └── gallery.html
+│
+├── 📂 assets/
+│   ├── images/                     # Stock images & icons
+│   ├── fonts/                      # Custom fonts
+│   ├── css/                        # Global styles
+│   └── js/                         # Utility functions
+│
+├── 📄 index.html                   # Main portfolio showcase
+├── 📄 README.md                    # This file
+├── 📄 LICENSE                      # MIT License
+├── 📄 DEMO. html                    # Live preview switcher
+└── 📄 . gitignore
+```
+
+---
 ---
 
 ## 🎯 Template Details
