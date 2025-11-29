@@ -15,6 +15,7 @@ Built with pure **HTML, CSS, and JavaScript** – 100% FREE to customize, use, a
 ## 📦 What's Included?
 
 ### **5 Complete Templates:**
+### **5 Complete Templates Ready to Use:**
 
 | Template | Best For | Key Features |
 |----------|----------|--------------|
