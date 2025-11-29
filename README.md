@@ -5,8 +5,8 @@
 Modern, clean, and fully customizable landing pages for **SaaS, Agency, Freelancer, Coaching, and E-Commerce** websites.  
 Built with pure **HTML, CSS, and JavaScript** – 100% FREE to customize, use, and sell!
 
-![Frontend](https://img.shields.io/badge/Frontend-Design-blueviolet? style=for-the-badge)
-![Responsive](https://img.shields. io/badge/Responsive-Mobile%20First-brightgreen?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Design-blueviolet?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-brightgreen?style=for-the-badge)
 ![Pure Code](https://img.shields.io/badge/Pure%20Code-HTML%2FCSS%2FJS-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
