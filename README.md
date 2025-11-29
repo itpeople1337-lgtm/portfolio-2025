@@ -673,7 +673,7 @@ git push origin feature/your-feature
 
 **For Freelance Work:**
 - 📧 Email: [revalsaputra350@gmail.com](revalsaputra350@gmail.com)
-- 🌐 Portfolio: [your-portfolio.com](#)
+- 🌐 Portfolio: [your-portfolio.com](https://github.com/itpeople1337-lgtm/CvReval)
 - 📱 Instagram: [@nardznightt](https://www.instagram.com/nardznightt/)
 - 💼 LinkedIn: [revaldi saputra](https://linkedin.com)
 
